@@ -1,4 +1,4 @@
-# shutdontimer
+# shutdown timer
 指定時刻にMacを自動シャットダウンするタイマーアプリ
 
 指定時刻になるとmacをシャットダウンするするアプリです。
